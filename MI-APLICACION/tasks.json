@@ -1,0 +1,15 @@
+[
+    {"title": "Hacer la cena",
+      "state": "terminada"
+},
+    {"title": "Estudiar JavaScript",
+      "state": "en proceso"
+},
+      {"title": "Limpiar",
+      "state": "pendiente" 
+      }
+]
+
+    
+
+
