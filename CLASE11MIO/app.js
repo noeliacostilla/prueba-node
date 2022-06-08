@@ -20,5 +20,9 @@ app.get("/register", (req, res) => {
   res.sendFile(path.join(__dirname, "views/register.html"));
 });
 
-//esta es una modificacion
+
+app.get("/login", (req, res) => {
+  // funcion controladora o handler
+  res.sendFile(path.join(__dirname, "views/login.html"));
+});
 
